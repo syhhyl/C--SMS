@@ -1,0 +1,7 @@
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/SMS.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/edit_cache.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/list_install_components.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/install.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/install/local.dir
+/home/syh/SMS/build/clang_Desktop_Qt_6_7_3-Debug/CMakeFiles/install/strip.dir
